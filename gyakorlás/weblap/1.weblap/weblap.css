@@ -1,0 +1,27 @@
+#life {
+  text-shadow: 1px 2px yellow;
+  text-align: center;
+}
+#simple {
+  position: absolute;
+  right: 250px;
+  top: 50px;
+}
+#hatter {
+  background-color: white;
+}
+#button2 {
+  background-color: red;
+  position: absolute;
+  right: 11px;
+}
+#button1 {
+  position: absolute;
+  background-color: green;
+}
+#button1:hover {
+  background-color: pink;
+}
+#button2:hover {
+  background-color: brown;
+}
